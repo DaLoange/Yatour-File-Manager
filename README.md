@@ -1,5 +1,5 @@
 # Yatour-File-Manager
-This tool will help you so that your Yatour plays your music in the desired order.
+This tool will help you to let your Yatour play your music in the desired order.
 
 Format your USB-Stick with FAT16 (under WIN10 its only called FAT).
 Create CD-Directories and name them CD1 - CD6.
